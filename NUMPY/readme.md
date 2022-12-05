@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="/logo/numpylogo.png" width="300">
+<img src="/NUMPY/logo/numpylogo.png" width="300">
 </h1><br>
 
 NumPy is the fundamental package for scientific computing with Python.
