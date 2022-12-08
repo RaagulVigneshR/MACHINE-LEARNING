@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="/OPENCV/logo/opencvlogo.png" width="300">
+<img src="/OPENCV/img/opencvlogo.png" width="300">
 </h1><br>
 
 # OpenCV: Open Source Computer Vision Library
